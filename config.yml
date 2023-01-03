@@ -1,0 +1,42 @@
+baseURL: ""
+languageCode: en-us
+title: Disabled Social Blog
+theme: PaperMod
+
+params:
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  disableSpecial1stPost: true
+  hideSummary: true
+  showtoc: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 60
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: contact
+      name: Contact Us
+      url: /contact/
+      weight: 50
+      
+     
