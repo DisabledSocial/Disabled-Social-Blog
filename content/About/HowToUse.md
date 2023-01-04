@@ -47,4 +47,6 @@ At the top of every post are breadcrumbs, which shows you where you are in the s
 
 Additionally, in the lower right hand corner is a little up arrow that you can click on to bring you to the top of a post.
 
+## How to Navigate To Home
 
+Click "Disabled Social Blog" in the upper left hand corner of any page to take you back to the home page.
