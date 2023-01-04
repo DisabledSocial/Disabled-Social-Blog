@@ -1,12 +1,14 @@
 #TO VIEW ON LOCAL MACHINE: Comment out baseURL with the github path AND the canonifyURLS:true. When generating
 #files and paths for github, uncomment these two lines and comment out the blank baseURL.
 
-baseURL: "https://disabledsocial.github.io/Disabled-Social-Blog"
+baseURL: "https://disabledsocial.github.io/Disabled-Social-Blog/"
 #baseURL: ""
 languageCode: en-us
 title: Disabled Social Blog
 theme: PaperMod
 canonifyURLs: true
+
+#relativeURLs: true
 
 params:
   ShowBreadCrumbs: true
@@ -21,27 +23,27 @@ menu:
   main:
     - identifier: categories
       name: Categories
-      url: /categories/
+      url: categories/
       weight: 10
     - identifier: tags
       name: Tags
-      url: /tags/
+      url: tags/
       weight: 20
     - identifier: Archives
       name: Archives
-      url: /archives/
+      url: archives/
       weight: 60
     - identifier: posts
       name: Posts
-      url: /posts/
+      url: posts/
       weight: 30
     - identifier: About
       name: About
-      url: /about/
+      url: about/
       weight: 40
     - identifier: contact
       name: Contact Us
-      url: /contact/
+      url: contact/
       weight: 50
       
      

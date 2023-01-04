@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Disabled Social Blog</title>
+    <link>https://disabledsocial.github.io/Disabled-Social-Blog/</link>
+    <description>Recent content on Disabled Social Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://disabledsocial.github.io/Disabled-Social-Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download Archive - Short</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/downloadarchive-short/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/downloadarchive-short/</guid>
+      <description>Within your account, you have the ability to download an archive of your account. This includes any uploaded media, posts, follows, lists, people you&amp;rsquo;ve blocked and muted, domain blocks, and bookmarks. You also get your avatar and header images.
+The steps for downloading an archive of your account are the same whether or not your account is active or suspended.
+Go to disabled.social on a computer. Log in. Preferences&amp;ndash;&amp;gt;Import and export&amp;ndash;&amp;gt;Data export You will see a table listing all of the data for your account.</description>
+    </item>
+    
+    <item>
+      <title>(Log in)/(Log out) - Long</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/loginandout_long/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/loginandout_long/</guid>
+      <description>NOTE: These instructions are specific to the app and web client you are using. But the general premise is the same.
+Account Log In Desktop/Laptop Step 1. In a web browser, type disabled.social. You will arrive at the landing page.
+Step 2. Once you’ve finished the steps in the account creation guide and you’ve been approved, then you can log in with your credentials. After you’ve logged in, you will see your home feed.</description>
+    </item>
+    
+    <item>
+      <title>Creator Copyright Policy</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/about/contributingcontentpolicy/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/about/contributingcontentpolicy/</guid>
+      <description>The Disabled Social Blog is intended to be a general repository of information for living as a chronically ill and/or disabled person. As such, there will be contributions from many different people.
+If you decide to contribute a post on the Disabled Social Blog, you retain full copyright of the material including the text, images, videos, etc. You can request any modifications up to and including deletion of the post at any point in time.</description>
+    </item>
+    
+    <item>
+      <title>Disabled Social Blog Privacy Policy</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/about/privacypolicy/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/about/privacypolicy/</guid>
+      <description>Definitions The Site is defined as the Disabled Social Blog.
+Introduction If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mastmd@cmdoms.com.
+We consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information that is collected and recorded by the Site.
+Information collection No information is collected by the Site, as it is a static site, does not utlize Google Analytics for traffic analysis, and does not serve advertisements.</description>
+    </item>
+    
+    <item>
+      <title>How to Navigate this Site</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/about/howtouse/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/about/howtouse/</guid>
+      <description>We deliberately chose the PaperMod theme for our blog because of its simplicity. In this post, I will cover the site organizational structure so that you understand how to navigate the site.
+Categories We are using Categories as a primary menu item. e.g., guides, transparency reportst, living disabled, benefits, medical conditions, etc.
+If you click the link at the top of the blog, you will be taken to the categories page which lists the different categories along with the number of posts in that category.</description>
+    </item>
+    
+    <item>
+      <title>2022 Fourth Quarter Transparency Report</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/posts/transparency_reports/2022q4/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/posts/transparency_reports/2022q4/</guid>
+      <description>This report covers the disabled.social Mastodon instance. Included in this report are general statistics, financial details including donations and operating costs, moderation efforts, and changes made and considered.
+First off…a big hearty welcome to everyone who has joined us on disabled.social! We hope that you are finding it to be an inviting and safe space so far. We’ve been hard at work behind the scenes trying to make sure things are running as smoothly as possible, all while learning a new platform.</description>
+    </item>
+    
+    <item>
+      <title>Account Creation - Short</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/accountcreation_short/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/accountcreation_short/</guid>
+      <description>NOTE: This guide was written for Mastodon 4.0.
+Account Sign Up Step 1. In a web browser, type disabled.social. You will arrive at the landing page.
+Step 2. When you click the ‘Create account’ button, you will be taken to a new screen that shows you the general rules of the instance. There are two buttons at the bottom of the screen. Click ‘Accept’ if you accept the general rules or click ‘Back’ if you do not.</description>
+    </item>
+    
+    <item>
+      <title>Account Creation - Long</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/accountcreation_long/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/accountcreation_long/</guid>
+      <description>NOTE: This guide was written for Mastodon 4.0.
+Account Sign Up Step 1. In a web browser, type disabled.social. You will arrive at the following landing page:
+Step 2. When you click the ‘Create account’ button, you will be taken to a new screen that shows you the general rules of the instance. There are two buttons at the bottom of the screen. Click ‘Accept’ if you accept the general rules or click ‘Back’ if you do not.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/about/aboutus/</link>
+      <pubDate>Mon, 05 Dec 2022 09:47:27 -0500</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/about/aboutus/</guid>
+      <description>Admin Team Ashley Chris Mod Team Aidan Chris Emily Valerie </description>
+    </item>
+    
+    <item>
+      <title>(Log in)/(Log out) - Short</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/loginandout_short/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/posts/guides/loginandout_short/</guid>
+      <description>NOTE: These instructions are specific to the app and web client you are using. But the general premise is the same.
+Account Log In Desktop/Laptop Step 1. In a web browser, type disabled.social. You will arrive at the landing page.
+Step 2. Once you’ve finished the steps in the account creation guide and you’ve been approved, then you can log in with your credentials. After you’ve logged in, you will see your home feed.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://disabledsocial.github.io/Disabled-Social-Blog/contact/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://disabledsocial.github.io/Disabled-Social-Blog/contact/</guid>
+      <description>If you have any questions, comments, or suggestions, you can email us at: mastmd@cmdoms.com.
+Alternatively, you can go directly to one of the admins or mods on Mastodon:
+Ashley (admin)
+Chris (admin)
+Aidan (mod)
+Chris (mod)
+Emily (mod)
+Valerie (mod)</description>
+    </item>
+    
+    
+  </channel>
+</rss>
