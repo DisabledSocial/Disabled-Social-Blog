@@ -45,7 +45,9 @@ At the bottom of every post are social media icons that allow you to share posts
 
 At the top of every post are breadcrumbs, which shows you where you are in the site's organizational structure at all times. The date in which the post was created and the average time to read through the post is also listed for informational purposes. There is also a table of contents at the top of every post to allow you to see a post's outline and to make it easier for you to quickly navigate to the section you are interested in. 
 
-Additionally, in the lower right hand corner is a little up arrow that you can click on to bring you to the top of a post.
+Also, if you hover to the right of a section title or sub-section title, a large pound sign will show up. If you click on that (providing you aren't at the bottom of the post), it will recenter the post so that the section or sub-section title will be at the top of the screen.
+
+Finally, in the lower right hand corner is a little up arrow that you can click on to bring you to the top of a post.
 
 ## How to Navigate To Home
 

@@ -8,8 +8,6 @@ title: Disabled Social Blog
 theme: PaperMod
 canonifyURLs: true
 
-#relativeURLs: true
-
 params:
   ShowBreadCrumbs: true
   ShowReadingTime: true
@@ -46,4 +44,4 @@ menu:
       url: contact/
       weight: 50
       
-     
+    

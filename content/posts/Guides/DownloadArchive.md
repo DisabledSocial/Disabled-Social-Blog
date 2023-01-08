@@ -1,8 +1,10 @@
 ---
-title: "Download Archive - Short"
+title: "Download Archive"
 date: 2022-12-29
 categories: ["Guides"]
 ---
+
+## Text-Only Instructions
 
 Within your account, you have the ability to download an archive of your account. This includes any uploaded media, posts, follows, lists, people you've blocked and muted, domain blocks, and bookmarks. You also get your avatar and header images.
 
