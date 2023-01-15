@@ -16,7 +16,11 @@ The simple web interface is the default for Mastodon. This shows only one timeli
 
 //link to navigation guide in main guide
 
-However, this interface isn't the only way to explore Mastodon. An advanced web interface also exists; there are also numerous third-party open source apps. These will be covered in the following sections along with the accessibility options in each! First, let's start with the main Mastodon client and its options.
+However, this interface isn't the only way to explore Mastodon. An advanced web interface also exists; there are also numerous third-party open source apps. These will be covered in the following sections along with the accessibility options in each! 
+
+### Accessibility Options for Mastodon Web-client
+
+First, let's start with the main Mastodon client and its options.
 
 Go to **Preferences** and click to access settings for Mastodon. 
 
