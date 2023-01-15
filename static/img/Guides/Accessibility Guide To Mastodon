@@ -12,11 +12,13 @@ When a member signs up for disabled.social through the Mastodon website, that ta
 
 The simple web interface is the default for Mastodon. This shows only one timeline, and to go to the others you need to click in the right-hand menu. This is a layout that is somewhat similar to Twitter's one timeline with the exception that Mastodon allows you to navigate to other more focused timelines. Let's explore those first before we move to the advanced web interface. 
 
-//insert image here
+[A Screenshot of the Simple Web Interface of Mastodon. It shows the menu on left, where search and post functions are located, the timeline in center, and the right-hand menu that contains the other timeline options and the preferences. Several options in the right-hand menu is colorcoded to emphasize navigation.](file:///Simple%20Web%20Interface.JPG)
 
 //link to navigation guide in main guide
 
-However, this interface isn't the only way to explore Mastodon. Go to Preferences and click to access settings for Mastodon. 
+However, this interface isn't the only way to explore Mastodon. An advanced web interface also exists; there are also numerous third-party open source apps. These will be covered in the following sections along with the accessibility options in each! First, let's start with the main Mastodon client and its options.
+
+Go to Preferences and click to access settings for Mastodon. 
 
 //insert image here
 
