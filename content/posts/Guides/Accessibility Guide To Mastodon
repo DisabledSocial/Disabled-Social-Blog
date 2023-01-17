@@ -54,6 +54,8 @@ The final sensitive media setting controls whether client automatically shows or
 
 As always, the **Save Changes** button is at the bottom of the setting menu. This *must* be clicked in order to save changes to the settings for Appearance.
 
+
+
 ### Advanced Web Interface
 
 If a user checked the advanced web interface option in Appearance, this will load the web-client in a new way. Let's explore that now!
@@ -67,4 +69,4 @@ Note that the width of these timeline columns will depend upon the screen of you
 
 ## Mastodon Apps for Androids 
 
-Aaidanbird@disabled.social did a review of various Mastodon Android apps and web-clients [here](https://disabled.social/@Aaidanbird/109464472100713136). This section will expand upon my reviews and offer tips on how to access the accessibility options in each.
+Aaidanbird@disabled.social did a review of various Mastodon Android apps and web-clients [here](https://disabled.social/@Aaidanbird/109464472100713136). More details on the accessibility options for each app will be placed here once Aaidanbird@disabled.social has spoons to do a more full write-up, so this section is a placeholder.
