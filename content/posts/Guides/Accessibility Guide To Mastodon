@@ -1,4 +1,9 @@
-# Accessibility Guide to Mastodon
+title: "Accessibility Guide to Mastodon"
+date: 2023-01-18
+author: Aidan Z. 
+categories: ["Guides"]
+
+## Introduction
 
 A guide to assist with the Accessibility features of Mastodon. For those new to Mastodon, it can seem daunting to decipher how to navigate the new interface and systems. The site itself has a lot of accessibility features that can be easily overlooked, especially for those that find learning a new system a steep learning curve due to their particular disability. This guide is to assist you with finding those features and unlocking Mastodon's full potential. 
 
@@ -7,14 +12,11 @@ A guide to assist with the Accessibility features of Mastodon. For those new to 
 When a member signs up for disabled.social through the Mastodon website, that takes them to the primary web client of mastodon. 
 
 
-
 ### Simple Web Interface 
 
 The simple web interface is the default for Mastodon. This shows only one timeline, and to go to the others you need to click in the right-hand menu. This is a layout that is somewhat similar to Twitter's one timeline with the exception that Mastodon allows you to navigate to other more focused timelines. Let's explore those first before we move to the advanced web interface. 
 
 [A Screenshot of the Simple Web Interface of Mastodon. It shows the menu on left, where search and post functions are located, the timeline in center, and the right-hand menu that contains the other timeline options and the preferences. Several options in the right-hand menu is colorcoded to emphasize navigation.](file:///Simple%20Web%20Interface.JPG)
-
-//link to navigation guide in main guide
 
 However, this interface isn't the only way to explore Mastodon. An advanced web interface also exists; there are also numerous third-party open source apps. These will be covered in the following sections along with the accessibility options in each! 
 
@@ -24,9 +26,15 @@ First, let's start with the main Mastodon client and its options.
 
 Go to **Preferences** and click to access settings for Mastodon. 
 
-//insert image here
+[Screenshot that has a purple box around a gear icon in the menu bar above the post editor. This is in the web client.](file:///preferences.JPG) 
+Or 
+![This screenshot has a purple box around the bottom option of the right side menu. The bottom option reads: "preferences."](file:///preferences2.JPG)
 
-Click on **Appearance** in left-hand menu. Here is a multitude of options to customize the appearance of the Mastodon web-client. The top two drop down options allow the user to set the language of the client and the theme - dark or light or High Contrast. 
+Click on **Appearance** in left-hand menu. Here is a multitude of options to customize the appearance of the Mastodon web-client. 
+
+![Screenshot of the Preferences menu, where there is a list of items on left hand menu. Under the Profile preferences, there is three sub headings that read: Appearance, Notifications, Other. The option for Appearance is underlined in purple.](file:///appearance.JPG)
+
+The top two drop down options allow the user to set the language of the client and the theme - dark or light or High Contrast. 
 
 Under the dropdowns, there is a checkbox for **Advanced Web Interface.** If this is checked and the setting saved, the advanced web interface will be unlocked. This allows the user to have multiple timelines open next to each other. We'll explore that in the next section in a minute. 
 
@@ -67,7 +75,9 @@ Under **Getting started** menu on right-hand side, the other timelines such as l
 Note that the width of these timeline columns will depend upon the screen of your device. If the screen of your device makes multiple columns hard to read, then either unpin the least used columns or switch to a **simple web interface** in **preferences**. 
 
 
-## Mastodon Apps for Androids 
+## Mastodon Apps and Web Clients for Androids 
 
-Aaidanbird@disabled.social did a review of various Mastodon Android apps and web-clients [here](https://disabled.social/@Aaidanbird/109464472100713136). More details on the accessibility options for each app will be placed here once Aaidanbird@disabled.social has spoons to do a more full write-up, so this section is a placeholder.
+Aaidanbird@disabled.social, author of this article, did a review of various Mastodon Android apps and web-clients [here](https://disabled.social/@Aaidanbird/109464472100713136). More details on the accessibility options for each app will be placed here once Aaidanbird@disabled.social has spoons to do a more full write-up, so this section is a placeholder.
 
+### Addendum
+Please note that **Cuckoo+** does *not retain* AltText for images. It is advised to not use this web-client to log into the server. Any AltText input into posts will not be retained and won't be accessible on any other app or client. 
