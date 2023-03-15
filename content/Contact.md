@@ -17,6 +17,4 @@ Alternatively, you can go directly to one of the admins or mods on Mastodon:
 
 [Emily (mod)](https://disabled.social/@emily_rj)
 
-[Valerie (mod)](https://disabled.social/@madtastically)
-
 <!---would be nice to put the above in a table. One column admins, the other mods --->
