@@ -18,7 +18,7 @@ When a member signs up for disabled.social through the Mastodon website, that ta
 
 The simple web interface is the default for Mastodon. This shows only one timeline, and to go to the others you need to click in the right-hand menu. This is a layout that is somewhat similar to Twitter's one timeline with the exception that Mastodon allows you to navigate to other more focused timelines. Let's explore those first before we move to the advanced web interface. 
 
-![A Screenshot of the Simple Web Interface of Mastodon. It shows the menu on left, where search and post functions are located, the timeline in center, and the right-hand menu that contains the other timeline options and the preferences. Several options in the right-hand menu is colorcoded to emphasize navigation.](/img/AccessibilityGuide/Simple%20Web%20Interface.JPG)
+![A Screenshot of the Simple Web Interface of Mastodon. It shows the menu on left, where search and post functions are located, the timeline in center, and the right-hand menu that contains the other timeline options and the preferences. Several options in the right-hand menu is colorcoded to emphasize navigation.](/img/Guides/AccessibilityGuide/Simple%20Web%20Interface.JPG)
 
 However, this interface isn't the only way to explore Mastodon. An advanced web interface also exists; there are also numerous third-party open source apps. These will be covered in the following sections along with the accessibility options in each! 
 
@@ -28,13 +28,13 @@ First, let's start with the main Mastodon client and its options.
 
 Go to **Preferences** and click to access settings for Mastodon. 
 
-![Screenshot that has a purple box around a gear icon in the menu bar above the post editor. This is in the web client.](/img/AccessibilityGuide/preferences.JPG) 
+![Screenshot that has a purple box around a gear icon in the menu bar above the post editor. This is in the web client.](/img/Guides/AccessibilityGuide/preferences.JPG) 
 Or 
-![This screenshot has a purple box around the bottom option of the right side menu. The bottom option reads: "preferences."](/img/AccessibilityGuide/preferences2.JPG)
+![This screenshot has a purple box around the bottom option of the right side menu. The bottom option reads: "preferences."](/img/Guides/AccessibilityGuide/preferences2.JPG)
 
 Click on **Appearance** in left-hand menu. Here is a multitude of options to customize the appearance of the Mastodon web-client. 
 
-![Screenshot of the Preferences menu, where there is a list of items on left hand menu. Under the Profile preferences, there is three sub headings that read: Appearance, Notifications, Other. The option for Appearance is underlined in purple.](/img/AccessibilityGuide/appearance.JPG)
+![Screenshot of the Preferences menu, where there is a list of items on left hand menu. Under the Profile preferences, there is three sub headings that read: Appearance, Notifications, Other. The option for Appearance is underlined in purple.](/img/Guides/AccessibilityGuide/appearance.JPG)
 
 The top two drop down options allow the user to set the language of the client and the theme - dark or light or High Contrast. 
 
@@ -72,7 +72,7 @@ If a user checked the advanced web interface option in Appearance, this will loa
 
 Under **Getting started** menu on right-hand side, the other timelines such as local, federated, explore, and direct message are listed. If a timeline is clicked upon, it will appear as a separate column next to the home column. To pin this new timeline column, select the **Show settings** button, and in that dropdown menu, select **pin**. This pins the timeline so it loads next to the home timeline each time the client is opened. Each timeline in the **Getting Started** menu can be pinned or unpinned in this manner. This allows for multiple timelines to show posts at the same time.
 
-![Screenshot that shows the Advanced web Interface. The right side has the menu for composing toots, notifications, and settings. Next to that menu is the home timeline. To the right of home timeline is the local timeline. The option button has a red square around it. The dropdown menu for that option button is showing at top of the local timeline. The pin/unpin option has a turquoise circle around it. On the right hand side is the "Explore" menu that lists several timelines, lists, direct message timeline, and preferences. The Local Timeline option has a turquoise circle around it.](/img/AccessibilityGuide/Advanced%20Timeline.jpg)
+![Screenshot that shows the Advanced web Interface. The right side has the menu for composing toots, notifications, and settings. Next to that menu is the home timeline. To the right of home timeline is the local timeline. The option button has a red square around it. The dropdown menu for that option button is showing at top of the local timeline. The pin/unpin option has a turquoise circle around it. On the right hand side is the "Explore" menu that lists several timelines, lists, direct message timeline, and preferences. The Local Timeline option has a turquoise circle around it.](/img/Guides/AccessibilityGuide/Advanced%20Timeline.jpg)
 
 Note that the width of these timeline columns will depend upon the screen of your device. If the screen of your device makes multiple columns hard to read, then either unpin the least used columns or switch to a **simple web interface** in **preferences**. 
 
