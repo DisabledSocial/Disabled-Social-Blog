@@ -32,3 +32,5 @@ If you wish to help, please review and aid those in what ways you can!
 ## Mutual Aid Requests
 
 - From https://disabled.social/@halcionandon "Multiple extremely disabling & worsening health conditions (including #severeME) while trying to ESCAPE an #ABUSIVE ENVIRONMENT, find affordable #housing, #caregiver, #healthcare, appeal #abusive #CaseManagement with #advocate, get #NDIS, & the list goes on." DONATE https://www.buymeacoffee.com/halcionandon Or https://www.beem.com.au to @halcionandon@disabled.social
+
+- From https://mastodon.redgarterclub.com/@AnthonyJK : "Here's my situation: I was on disability leave but ultimately had to resign my job due to chronic dizziness affecting my ability to perform manual labor. I am currently collecting disability payments from my work insurance and appealing my claim for Federal disability, but it is a constant struggle making ends meet. Hence, the constant crowdfunding." Paypal link: https://www.paypal.com/pools/c/8SWfGDJuIV
